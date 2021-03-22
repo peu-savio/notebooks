@@ -1,1 +1,2 @@
-# notebooks
+# Notebooks
+Just some jupyter notebooks
